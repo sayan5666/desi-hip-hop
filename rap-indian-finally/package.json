@@ -1,0 +1,34 @@
+{
+  "name": "desi-hip-hop-player",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "node server.ts",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@google/genai": "^2.16.0",
+    "@vercel/analytics": "^1.5.0",
+    "@vercel/speed-insights": "^1.2.0",
+    "fast-average-color": "^9.5.2",
+    "lucide-react": "^0.546.0",
+    "motion": "^12.23.24",
+    "next": "^15.1.0",
+    "react": "^19.0.1",
+    "react-dom": "^19.0.1",
+    "spotify-url-info": "^3.3.2",
+    "youtubei.js": "^17.2.0",
+    "ytpl": "^2.3.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
+    "@types/node": "^22.14.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^4.0.0",
+    "typescript": "~5.8.2"
+  }
+}

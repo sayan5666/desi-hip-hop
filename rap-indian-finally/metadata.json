@@ -1,0 +1,7 @@
+{
+  "name": "Desi Hip Hop Radio",
+  "description": "A refined aesthetic music player for Indian hip hop and imported playlists with dynamic visuals and playback controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
